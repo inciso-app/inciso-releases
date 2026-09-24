@@ -1,17 +1,17 @@
 # Inciso
 
-  Inciso is a private space for writing, organizing and refining long-form work.
+Inciso is a private space for writing, organizing and refining long-form work.
 
-  This repository only hosts releases — installers and release notes.
-  The source code is not public.
+This repository only hosts releases — installers and release notes.
+The source code is not public.
 
-  ## Download
+## Download
 
-  Open Releases and download the DMG for your Mac:
-  arm64 for Apple Silicon, x64 for Intel.
+Open [Releases](https://github.com/inciso-app/inciso-releases/releases) and download the DMG for your Mac:
+`arm64` for Apple Silicon (M1 and later), `x64` for Intel.
 
-  ## Updates
+## Updates
 
-  Once installed, Inciso checks this repository for new versions and asks
-  before downloading anything. You can turn the automatic check off in Settings.
-  Beta versions are published as pre-releases.
+Once installed, Inciso checks this repository for new versions and asks
+before downloading anything. You can turn the automatic check off in
+**Settings → Info → Updates**. Beta versions are published as pre-releases.
